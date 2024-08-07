@@ -1,0 +1,36 @@
+        
+        $$$$$$\ $$$$$$$\        $$$$$$$$\ $$$$$$$\   $$$$$$\   $$$$$$\  $$\   $$\ $$$$$$$$\ $$$$$$$\  
+        \_$$  _|$$  __$$\       \__$$  __|$$  __$$\ $$  __$$\ $$  __$$\ $$ | $$  |$$  _____|$$  __$$\ 
+          $$ |  $$ |  $$ |         $$ |   $$ |  $$ |$$ /  $$ |$$ /  \__|$$ |$$  / $$ |      $$ |  $$ |
+          $$ |  $$$$$$$  |         $$ |   $$$$$$$  |$$$$$$$$ |$$ |      $$$$$  /  $$$$$\    $$$$$$$  |
+          $$ |  $$  ____/\033[1;32m          $$ |   $$  __$$< $$  __$$ |$$ |      $$  $$<   $$  __|   $$  __$$< 
+          $$ |  $$ |               $$ |   $$ |  $$ |$$ |  $$ |$$ |  $$\ $$ |\$$\  $$ |      $$ |  $$ |\033[1;31m
+        $$$$$$\ $$ |               $$ |   $$ |  $$ |$$ |  $$ |\$$$$$$  |$$ | \$$\ $$$$$$$$\ $$ |  $$ |
+        \______|\__|               \__|   \__|  \__|\__|  \__| \______/ \__|  \__|\________|\__|  \__|\033[1;32m
+
+==================================================================================================
+Your IP: 203.0.113.195
+If You Do Not Want To Track Type Exit
+
+Enter Your Target IP: 8.8.8.8
+
+All The Information Of IP Is Here [8.8.8.8] :
+IP: 8.8.8.8
+IP Type: IPv4
+Continent Name: North America
+Continent Code: NA
+Country: United States
+Country Code: US
+Region Name: California
+Region Code: CA
+City: Mountain View
+Zip: 94035
+TimeZone: America/Los_Angeles
+ISP: Google LLC
+Do you want to find the exact location with Google Maps?
+Then search the Google Map using the Latitude or longitude number
+Latitude: 37.3861
+Longitude: -122.0838
+More Information Of IP:
+{"country_code":"US","country_name":"United States","region_code":"CA","region_name":"California","city":"Mountain View","zip":"94035","latitude":37.3861,"longitude":-122.0838}
+
