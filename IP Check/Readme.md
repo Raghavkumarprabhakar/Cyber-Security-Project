@@ -36,14 +36,16 @@ To set up and run IP Check on your local machine, follow these steps:
 1. **Obtain an API key from IP-API.**
 2. **Configure the API key:**
    ```sh
-   API_KEY = 'your_api_key_here'
+   API_KEY = 'fd0c1eae3c2d27ee676af0db2b864b0e'
    
 ## Migration Notes
 **This project is designed to be straightforward and does not require extensive migrations or updates. Make sure to keep the dependencies updated as needed.**
+## Conntact
+1. **Autor - Raghav Prabhakar**
+2. **Email - Raghavkumarprabhakar50@gmail.com**
 
-## Access Credentials
-  **API Key**
-  **API Key Configuration: Ensure your config.py file includes the following line with your API key:**
-   ```sh
-   API_KEY = 'your_api_key_here'
+#Hashtags
+#IPCheck #IPTracking #CyberSecurity #IPAPI #Linux #Termux #CommandLine #APIIntegration #OpenSource
+
+
 
