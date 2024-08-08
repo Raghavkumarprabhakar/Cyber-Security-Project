@@ -1,5 +1,3 @@
-# Create a README.md file with emojis
-readme_content = """
 # 🛡️ KeyLogger Project
 
 This project is a Python-based KeyLogger that captures keyboard inputs, mouse movements, screenshots, and microphone recordings. It also collects system information and sends periodic reports via email.
