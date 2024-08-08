@@ -1,0 +1,46 @@
+The output includes:
+
+1. Captured Keyboard Inputs: Logs of all keys pressed on the keyboard.
+2. Mouse Activity: Logs of mouse movements, clicks, and scrolls.
+3. Screenshots: Periodic screenshots of the screen.
+4. Microphone Recordings: Audio recordings captured by the microphone.
+5. System Information: Information about the system such as hostname, IP address, and processor details.
+6. Email Reports: All of the above information is sent periodically via email, based on the interval set by SEND_REPORT_EVERY.
+7. If you want to print the output directly, you'd need to adjust the script to print the logs to the console instead of just appending them to a log variable or sending them via email.
+
+Here’s how you might see the output directly:
+
+1. Keyboard Logs: As the script runs, it records key presses. The log might look like:
+
+KeyLogger Started...
+h
+e
+l
+l
+o
+SPACE
+w
+o
+r
+l
+d
+
+2. Mouse Activity: Mouse movements and clicks might be logged as:
+
+Mouse moved to 200 400
+Mouse clicked at 300 500
+Mouse scrolled at 250 450
+
+3. Screenshots: The script captures and stores screenshots, which would be saved as image files.
+
+4. Microphone Recordings: Audio would be recorded and stored as .wav files.
+
+5. System Information: This might include:
+
+Hostname: my-computer
+IP Address: 192.168.1.10
+Processor: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+System: Windows 10
+Machine: x86_64
+
+7. Email Reports: These logs and files are sent to the specified email address.
