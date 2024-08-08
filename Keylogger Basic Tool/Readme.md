@@ -25,8 +25,18 @@ This project is a Python-based KeyLogger that captures keyboard inputs, mouse mo
    git clone https://github.com/yourusername/KeyLogger.git
    cd KeyLogger
    
-### Install dependencies:
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
-```bash
-pip install -r requirements.txt
+# Content for the README.md file
+readme_content = """
+
+## 📝 Usage
+
+### Run the KeyLogger:
+   ```bash
+    python keylogger.py
+
+
 
