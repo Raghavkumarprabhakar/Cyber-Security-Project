@@ -28,12 +28,27 @@ This project is a Python-based KeyLogger that captures keyboard inputs, mouse mo
  2. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
-    
-## 📝 Usage
- ### Run the KeyLogger:
-   ```bash
-     python keylogger.py
 
+ ## 📝 Usage
+ ### Run the KeyLogger:
+    ```bash
+    python keylogger.py
+    
+## ⚠️ Legal Disclaimer
+
+This tool is intended for educational purposes only. Unauthorized use of this tool to capture data without consent is illegal and unethical. Use responsibly.
+
+## 📧 Contact
+
+If you have any questions or issues, feel free to reach out via email at Raghavkumarprabhakar50@gmail.com.
+
+    
+    
+   
+    
+
+   
+     
    
 
 
