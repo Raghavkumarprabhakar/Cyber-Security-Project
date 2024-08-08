@@ -29,14 +29,12 @@ This project is a Python-based KeyLogger that captures keyboard inputs, mouse mo
    ```bash
    pip install -r requirements.txt
 
-# Content for the README.md file
-readme_content = """
-
 ## 📝 Usage
 
-### Run the KeyLogger:
+   ### Run the KeyLogger:
    ```bash
-    python keylogger.py
+     python keylogger.py
+
 
 
 
