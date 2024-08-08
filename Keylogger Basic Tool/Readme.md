@@ -12,4 +12,8 @@ This project is a Python-based KeyLogger that captures keyboard inputs, mouse mo
 - **📧 Email Reports**: Sends captured data via email at regular intervals.
 
 ## 📂 Project Structure
+KeyLogger/
+│
+├── keylogger.py # Main script
+└── README.md # Project documentation
 
