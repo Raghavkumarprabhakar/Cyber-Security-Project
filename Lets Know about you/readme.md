@@ -3,6 +3,7 @@
 Welcome to the Footprinting Tool! This Python script helps gather various types of information about a domain or IP address. Perfect for network security enthusiasts and digital investigators.
 
 ![Output 1](https://github.com/Raghavkumarprabhakar/Cyber-Security-Project/blob/main/Lets%20Know%20about%20you/screen%20shot/Screenshot%202024-09-07%20230055.png)
+![Output 2](https://github.com/Raghavkumarprabhakar/Cyber-Security-Project/blob/main/Lets%20Know%20about%20you/screen%20shot/Screenshot%202024-09-07%20230124.png)
 *Explore the details with our powerful tool!*
 
 ## Features 🚀
